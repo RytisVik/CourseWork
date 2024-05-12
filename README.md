@@ -1,4 +1,4 @@
-# Kursinis Snake game
+# Course work Snake game
 
 ### What is my application?
 

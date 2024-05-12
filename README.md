@@ -37,7 +37,7 @@ The program counts users score and writes it in file. With this principle people
 It was my first game ever developed and for the first time I can see what code does - in my case how it creates game. The program created is a fully functional Snake game that provides an interactive and engaging user experience. Players can start the game, control the snake, consume food items, and attempt to beat the high score.
 The implementation of various OOP concepts within the game's design ensures the code is modular, easier to manage, and scalable for future enhancements. 
 
-###Future Prospects of the Program
+### Future Prospects of the Program
 
 - New Features: Adding more complex game features such as different levels, obstacles, or power-ups can make the game more engaging.
 - Improved Graphics: Integrating more advanced graphical elements and animations could enhance the visual appeal and gameplay experience.

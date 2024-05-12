@@ -33,7 +33,7 @@ The program counts users score and writes it in file. With this principle people
 - One of the biggest challenge was writing desing patterns in the code. In the end those patterns are not ideal and not perfect.
 - Another challenge was making the two diffrent foods and making them interract with snake (tail length)
 
-###Conclusion
+### Conclusion
 It was my first game ever developed and for the first time I can see what code does - in my case how it creates game. The program created is a fully functional Snake game that provides an interactive and engaging user experience. Players can start the game, control the snake, consume food items, and attempt to beat the high score.
 The implementation of various OOP concepts within the game's design ensures the code is modular, easier to manage, and scalable for future enhancements. 
 
